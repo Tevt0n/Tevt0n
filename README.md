@@ -2,7 +2,7 @@
 
 I'm a QA engineer with over 6+ years of related experience and currently working at Dell Technologies, in 2022 I started to learn Java and automation in Java, here are some of my study projects that I created during my studies, currently my main demo project for automation testing is https://github.com/Tevt0n/JetBrains-tests
 
-You can contacct me in Telegram: https://t.me/Tevton
+You can contact me in Telegram: https://t.me/Tevton
 
 <!--
 **Tevt0n/Tevt0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
